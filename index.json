@@ -2,5 +2,5 @@
   "dataUrl": "https://api.wentianplay.com/api/zhitiao.json",
   "version": "1.0",
   "lastUpdated": "2025-03-31",
-  "description": "纸条ZhiTiao系统配置文件 - 配置远程数据源"
+  "description": "纸条系统配置文件 - 配置远程数据源"
 }
